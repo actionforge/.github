@@ -1,4 +1,4 @@
-![Actionforge Banner](https://www.actionforge.dev/assets/social.jpg?)
+![Actionforge Banner](https://www.actionforge.dev/static/assets/social.jpg?)
 
 # Actionforge
 
